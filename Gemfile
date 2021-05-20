@@ -5,7 +5,7 @@ ruby '2.7.1'
 
 gem 'bootsnap', '1.4.6', require: false
 gem 'pg', '1.2.3'
-gem 'puma', '4.3.5'
+gem 'puma', '4.3.8'
 gem 'rails', '6.0.3.1'
 gem 'sass-rails', '6.0.0'
 gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
